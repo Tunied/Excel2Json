@@ -1,0 +1,54 @@
+{
+  "TestSheet": [
+    {
+      "gap_2": 5,
+      "gap_1": 4,
+      "batchID_0": "Goblin",
+      "batch_2": "Goblin",
+      "batch_1": "Goblin",
+      "batch_3": "Goblin",
+      "batchNum_1": 5,
+      "waveGroupID": "G01",
+      "batchNum_0": 5,
+      "gap_0": 5
+    },
+    {
+      "gap_2": 5,
+      "gap_1": 4,
+      "batchID_0": "OrcWarrior",
+      "batch_2": "OrcWarrior",
+      "batch_1": "OrcWarrior",
+      "batchNum_1": 5,
+      "waveGroupID": "G01",
+      "batchNum_0": 5,
+      "gap_0": 5
+    },
+    {
+      "gap_2": 5,
+      "gap_1": 4,
+      "batchID_0": "Pikeman",
+      "batch_2": "Pikeman",
+      "batch_1": "Pikeman",
+      "batchNum_1": 1,
+      "waveGroupID": "G01",
+      "batchNum_0": 1,
+      "gap_0": 5
+    },
+    {
+      "gap_2": 5,
+      "gap_1": 4,
+      "batchID_0": "BigOrc",
+      "waveGroupID": "G01",
+      "batchNum_0": 1,
+      "gap_0": 5
+    },
+    {
+      "gap_2": 5,
+      "gap_1": 4,
+      "batchID_0": "BigOrc",
+      "waveGroupID": "G01",
+      "batchNum_0": 2,
+      "gap_0": 5
+    }
+  ]
+}
